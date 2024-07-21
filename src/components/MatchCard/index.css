@@ -1,0 +1,34 @@
+.match-card-container {
+  width: 30%;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 4px;
+}
+.logo-image {
+  width: 65px;
+  height: 65px;
+}
+.team-text {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #ffffff;
+}
+.result-text {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #ffffff;
+}
+.match-status-loss {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #e31a1a;
+}
+.match-status-won {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #18ed66;
+}

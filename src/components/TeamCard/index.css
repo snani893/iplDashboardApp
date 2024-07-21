@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.card-container {
+  background-color: #ffffff33;
+  border-radius: 5px;
+  border: 1px solid #475569;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+  width: 40vw;
+  margin: 6px;
+}
+.team-image {
+  height: 85px;
+  width: 85px;
+}
+.link-item {
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+.team-name {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: 400;
+}
+.list-item {
+  list-style-type: none;
+}

@@ -1,0 +1,45 @@
+.latest-match-container {
+  width: 100%;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.left-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 35%;
+}
+.competin-team-heading {
+  font-family: 'Roboto';
+  font-size: 26px;
+  color: #ffffff;
+  font-weight: 300;
+}
+.date-text {
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #ffffff;
+}
+.text {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #ffffff;
+}
+.competing-team-logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.competing-team-logo {
+  height: 110px;
+  width: 90px;
+}
+.right-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+}
